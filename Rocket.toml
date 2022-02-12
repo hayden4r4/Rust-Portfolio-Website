@@ -1,0 +1,2 @@
+[global.databases]
+portfolio = { url = "postgres://haydenr4:password@localhost/portfolio" }
